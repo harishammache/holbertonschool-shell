@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chmod -R ugo+X monrep
+chmod -R ugo+X /repertoire
