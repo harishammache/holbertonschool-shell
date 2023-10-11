@@ -1,2 +1,2 @@
 #!/bin/bash
-grey "root" /etc/passwd
+grey -i "root" /etc/passwd
