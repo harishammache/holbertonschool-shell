@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $($(10#16))
+echo {a..z}{a..z} | grep -v "o"
